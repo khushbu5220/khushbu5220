@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Khushbu @khushbu5220
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Backend development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m **Khushbu** @khushbu5220
+- 👀 I’m interested in <b>Webdevelopment</b>
+- 🌱 I’m currently learning <b>Backend development</b>
 
 <!---
 khushbu5220/khushbu5220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
