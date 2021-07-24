@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Khushbu** @khushbu5220
--     Graduated from Indira Gandhi Delhi Technical University for Women (IGDTUW).
+- 🎓 Graduated from **Indira Gandhi Delhi Technical University for Women (IGDTUW)**.
 - 👀 I’m interested in <b>Webdevelopment</b>
 - 🌱 I’m currently learning <b>Backend development</b>
 
