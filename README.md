@@ -2,7 +2,7 @@
 
 - 🎓 Graduated from **Indira Gandhi Delhi Technical University for Women (IGDTUW)**.
 - 👀 I’m interested in <b>Fullstack Webdevelopment</b>.
-- 🌱 I’m currently learning <b>OutSystems</b>.
+- 🌱 I’m currently learning <b>Java</b>.
 - 🏢 I'm currently working at <b>Swaransoft Solution Private Ltd.</b>
 
 <!---
